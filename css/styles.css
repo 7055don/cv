@@ -1,0 +1,35 @@
+body{
+    background-color: #EAF6F6;;
+}
+
+hr{
+    /*   background-color:white;   */
+    border-style:dotted none none;
+    border-style:none;
+    border-top-style: dotted;
+    border-color:grey;
+    border-width:5px;
+    height: 0px;
+    width: 5%;
+}
+
+h1{
+    color: #66BFBF;
+}
+
+h3{
+    color: #66BFBF;
+}
+h3:hover{
+    color: gold;
+}
+td:hover{
+    color: green;
+}
+
+li:hover{
+    color: green;
+}
+/*   selector { property : value ; }    */
+/*   tag selectors는 그냥 쓴다    */
+/*   class selectors는 .쩜만 찍고 그냥 쓴다 */
